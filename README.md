@@ -3,7 +3,7 @@ Applications of Machine Learning in Cybersecurity
 
 These notebooks contain data for our reseach project, we are studying the effects of Data Augmentation on Adversial Robustness.
 
-The techniques we are using can be catagorized into two broad catagories: Data Augmentation an Data Corruption.
+The techniques we are using can be catagorized into two broad catagories: Data Augmentation and Data Corruption.
 
 Along with these techniques we also ran each iteration with Pad/Crop/Flip which are labelled as pcf to see results with combining augmentations.
 
